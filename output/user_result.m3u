@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南宁文旅生活.png" group-title="广西频道",南宁文旅生活
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-02 00:55:08
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-02 12:49:33
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
